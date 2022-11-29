@@ -1,3 +1,7 @@
+# DES algorithm code was based on shubhamupadhyay's code from https://www.geeksforgeeks.org/data-encryption-standard-des-set-1/ 
+__author__ = "Salim Hashisho"
+
+
 from tkinter import *
 root = Tk("DES")
 root.title("")
