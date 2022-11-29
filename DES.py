@@ -4,7 +4,7 @@ __author__ = "Salim Hashisho"
 
 from tkinter import *
 root = Tk("DES")
-root.title("")
+root.title("Data Encryption Standard")
 frame = Frame(root, bd=10, width=500, height=600)
 frame.grid(row=0, column=0)
 frame.grid_propagate(0)
@@ -407,7 +407,7 @@ def enc(mode):
 
 def round(i, left, right, rk, expArr, xor1Arr, sboxArr, permArr, xor2Arr):
     top = Toplevel(root)
-    top.title("R " + str(i))
+    top.title("Round " + str(i))
     topframe = Frame(top, bd=10, width=400, height=300)
     topframe.grid(row=0, column=0)
     topframe.grid_propagate(0)
