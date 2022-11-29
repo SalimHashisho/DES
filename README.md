@@ -1,6 +1,6 @@
 ## Objective
 
-Simple GUI application that uses Data Encryption Standard (DES) to encrypt or decrypt a 64-bit text using a 64-bit key .
+Simple GUI application that uses Data Encryption Standard (DES) to encrypt or decrypt a 64-bit text using a 64-bit key.
 
 ## How it Works
 
