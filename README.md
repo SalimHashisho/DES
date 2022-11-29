@@ -36,7 +36,7 @@ The steps that are shown in each round are:
 
 Multiple Rounds can be opened together, and they stay opened until closed by the user. Hence, you can see the result of two rounds coming from two different encryptions or decryptions.
 
-## ## Next Steps
+## Next Steps
 
 Several steps are to be taken in different aspects of the chat application.
 
